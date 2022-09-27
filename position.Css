@@ -1,0 +1,14 @@
+.static{
+
+    position: static;
+    bottom: 0;
+}
+
+.fixed{
+    position: fixed;
+    top: 0;
+}
+.relative{
+    position: relative;
+    top: 0;
+}
