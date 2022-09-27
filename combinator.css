@@ -1,0 +1,18 @@
+/* Descendant selector */
+div p {
+    color:rgb(255,0,0);
+}
+
+/* child selector */
+div > p {
+    color: blue;
+}
+/* Adjacent sibiling selector */
+div + p {
+    color: aqua;
+}
+/* General Sibiling selector */
+div ~ p {
+    color: violet;
+
+}
